@@ -1,3 +1,4 @@
+<!--
 ### Hi there, I am Kavyansh Khaitan 👋
 
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAcEz2tVLs6olOpfs_2ps_A?style=for-the-badge)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KavyanshKhaitan2&theme=jolly&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyanshKhaitan2&theme=jolly)
