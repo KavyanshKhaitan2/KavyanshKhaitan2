@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: Email - [kavyanshkhaitan11@gmail.com](mailto:kavyanshkhaitan11@gmail.com)
 <!--
-- 😄 Pronouns: ...
+- 📫 How to reach me: Email - [kavyanshkhaitan11@gmail.com](mailto:kavyanshkhaitan11@gmail.com)
+-->
+- 😄 Pronouns: He, They, Them etc.
+<!-- -
 - ⚡ Fun fact: ...
 -->
 
