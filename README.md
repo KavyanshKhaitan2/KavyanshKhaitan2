@@ -3,10 +3,10 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on PartyTools
-🌱 I’m currently learning PyTorch, Flask and Pandas
-💬 Ask me about Tkinter
-⚡ Fun fact: My friends say I am the best in the school (in Python)
+🔭 I’m currently working on PartyTools<br>
+🌱 I’m currently learning PyTorch, Flask and Pandas<br>
+💬 Ask me about Tkinter<br>
+⚡ Fun fact: My friends say I am the best in the school (in Python)<br>
 
 
 ## 🌐 Socials:
