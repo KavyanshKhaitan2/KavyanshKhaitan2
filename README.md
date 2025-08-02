@@ -11,7 +11,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=KavyanshKhaitan2&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KavyanshKhaitan2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyanshKhaitan2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=KavyanshKhaitan2&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=KavyanshKhaitan2&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KavyanshKhaitan2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
