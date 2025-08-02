@@ -20,8 +20,9 @@
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=KavyanshKhaitan2&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api/wakatime?username=KavyanshKhaitan2&layout=compact&theme=dark)" />
 </picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KavyanshKhaitan2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
